@@ -17,3 +17,5 @@ On the base of the board are headers for firmware deployment using the Nu-Link p
 The programming software is Windows-only.
 
 N76E003 Datasheet: http://www.nuvoton.com/resource-files/DS_N76E003_EN_Rev1.08.pdf
+
+See here for a review of the N76E003: https://jaycarlson.net/pf/nuvoton-n76/
